@@ -1,1 +1,1 @@
-# ComfyUI_UniversalSubspace
+universal loraを読み込める
